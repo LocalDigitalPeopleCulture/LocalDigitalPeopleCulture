@@ -203,7 +203,7 @@ Exploring how local authorities can effectively engage people and develop their 
 </tr>
 <tr>
 <td width="151">
-<p>Council user research subjects</p>
+<p>Project team and council user research subjects</p>
 </td>
 <td width="150">
 <p>23 weeks x 5 councils</p>
