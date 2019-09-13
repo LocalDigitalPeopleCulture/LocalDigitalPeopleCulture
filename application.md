@@ -239,12 +239,6 @@ Exploring how local authorities can effectively engage people and develop their 
 <td width="135">
 <p>Role of single point of contact</p>
 </td>
-<td width="116">
-<p>Email of single point of contact</p>
-</td>
-<td width="125">
-<p>Phone number of single point of contact</p>
-</td>
 </tr>
 <tr>
 <td width="105">
@@ -255,12 +249,6 @@ Exploring how local authorities can effectively engage people and develop their 
 </td>
 <td width="135">
 <p>User Design Manager </p>
-</td>
-<td width="116">
-<p>tom.thornton@york.gov.uk</p>
-</td>
-<td width="125">
-<p>01904 552979</p>
 </td>
 </tr>
 <tr>
@@ -273,12 +261,6 @@ Exploring how local authorities can effectively engage people and develop their 
 <td width="135">
 <p>Head of Programmes Redesign and Quality</p>
 </td>
-<td width="116">
-<p>susan.parker@easthants.gov.uk</p>
-</td>
-<td width="125">
-<p>02392 446493</p>
-</td>
 </tr>
 <tr>
 <td width="105">
@@ -290,12 +272,6 @@ Exploring how local authorities can effectively engage people and develop their 
 <td width="135">
 <p>Head of Programmes Redesign and Quality</p>
 </td>
-<td width="116">
-<p>susan.parker@easthants.gov.uk</p>
-</td>
-<td width="125">
-<p>02392 446493</p>
-</td>
 </tr>
 <tr>
 <td width="105">
@@ -306,12 +282,6 @@ Exploring how local authorities can effectively engage people and develop their 
 </td>
 <td width="135">
 <p>Business Partnering &amp; Improvement Manager</p>
-</td>
-<td width="116">
-<p>neil.gage@haringey.gov.uk</p>
-</td>
-<td width="125">
-<p>020 8489 1099</p>
 </td>
 </tr>
 </tbody>
