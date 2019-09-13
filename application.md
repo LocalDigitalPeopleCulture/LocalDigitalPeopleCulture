@@ -184,7 +184,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>&pound;8,600 (&pound;50p/hr x 7.5hrs/wk x 23 weeks)</p>
 </td>
 <td width="150">
-<p>Project partners</p>
+<p>Rushmoor Borough Council</p>
 </td>
 </tr>
 <tr>
