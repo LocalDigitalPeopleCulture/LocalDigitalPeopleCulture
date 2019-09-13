@@ -1,3 +1,3 @@
 # LocalDigitalPeopleCulture
-Ths is the project repo for the Local Digital Collaboration Unit funded project on people, culture and digital transformation.
+This is the project repo for the Local Digital Collaboration Unit funded project on people, culture and digital transformation.
 You can find our public project plan on [Trello](https://trello.com/b/y2aLOjS1/localdigitalpeopleculture-project-plan).
