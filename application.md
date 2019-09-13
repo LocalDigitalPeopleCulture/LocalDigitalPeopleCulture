@@ -99,7 +99,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Recruit participants from the project partners. We will also recruit participants for surveys and interviews from other local authorities using social media, existing networks, localgovdigital slack and MHCLG contacts.</li>
 </ul>
 <p>We have developed an <a href="https://trello.com/b/y2aLOjS1/localdigitalpeopleculture-project-plan">outline project plan on Trello.</a></p>
-<h3> 2.4 Describe the cost of the problem, at both a local and national level, and how you plan to size and validate that cost during the discovery phase.e </h3>
+<h3> 2.4 Describe the cost of the problem, at both a local and national level, and how you plan to size and validate that cost during the discovery phase </h3>
 <p>According to <a href="https://www.nao.org.uk/report/digital-transformation-in-government/">Amyas Morse, head of the National Audit Office</a>, &ldquo;Digital transformation has a mixed track record across government. It has not yet provided a level of change that will allow government to further reduce costs while still meeting people's needs.&rdquo;</p>
 <p>We experience this mixed track record in local government. It represents a significant cost to our local authorities, that is often intangible and hard to quantify. We can sometimes measure it indirectly through the actual savings realised by our transformation programmes being less than the expected savings.</p>
 <p>A lack of internal capabilities or capacity can result in the use of expensive consultancy services with mixed results. A transformation programme that aims to achieve digitisation won&rsquo;t realise as much savings as full digital transformation.</p>
@@ -113,3 +113,283 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Collating information from project partners and widely with local government on the use, cost, success and failure experienced by engaging management consultants and similar services.</li>
 <li>Understanding any correlation between the user research and financial research.</li>
 <li>Scaling up the findings to get a national estimate for the cost of this problem.</li></ul>
+<h3>2.5 How will you set up the project to ensure a collaborative, iterative approach between all partners? </h3>
+<p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
+<p>Each project partner will provide at least one member of the project team from their transformation or organisation development teams. Rushmoor will provide project management and a project team member.</p>
+<p>We value the use of simple, accessible tools to manage the project. We will set up a Whatsapp chat for the project team to communicate effectively and share documentation using Office365.</p>
+<p>We will set up a <a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture">github site</a> as a document repository, to share outputs and talk openly about our progress.</p>
+<p>We will take an agile project management approach to governing this discovery. Working alongside the digital agency, each project partner lead will agree their contribution to the work at the beginning of the project, each phase and each sprint. Regular progress updates will be posted to the Whatsapp group. At the end of each sprint, we&rsquo;ll run a review to share our work, consider any lessons learnt and agree next steps.</p>
+<h3> 2.6 Who are the relevant service owners and senior stakeholders that will need to be bought into the project to ensure its success? </h3>
+<p>This project has been developed by people leading and working in transformation implementation teams. The project partners have involved their senior responsible officers in the application. We will continue to engage with them through regular updates, signposting to publish progress updates and including them in the user research.</p>
+<p>Our work will be relevant across local government, so we&rsquo;ll be recruiting a representative group of user research subjects. This will include a range of service owners and senior stakeholders.</p>
+<h3>2.7 Describe how your project team will have the skills and time available to deliver the project in an iterative/agile, and user-centred way? </h3>
+<p>The project partners have differing levels of experience in Agile working and only the City of York have their own user research team.</p>
+<p>We would like the project team to undertake training, so they have a sufficient understanding of agile and user centred design. This will also provide an opportunity to meet each other and develop as a team. The ideal courses would be Agile for Teams and Introduction to User-centred Design.</p>
+<p>We intend to use the Digital Marketplace Outcomes and Specialists framework to find a digital agency partner with recent, successful experience in digital transformation of local government. They will bring knowledge and experience to guide the project, facilitate the user research, provide a consistent approach across the partner councils and do desk research. We will expect them to bring together each region&rsquo;s findings and produce the outputs. We will begin drafting this opportunity as soon as our application is submitted.</p>
+<p>The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. Each project partner will contribute a group of user research subjects to take part in interviews, surveys and workshops. We will recruit these groups from across our services to spread out the demand on our time.</p>
+<p>Each project partner considers this research as critical to the success of their own transformation programmes and has committed to making time available.</p>
+<h3>2.8 Describe any additional support you might need to run the project beyond the award of grant funding?</h3>
+<p>We would need our project team to undertake the following training together:</p>
+<ul>
+<li>Agile for Teams</li>
+<li>Introduction to User-centred Design.</li>
+</ul>
+<p>We would like help raising awareness of any surveys, research and progress updates with the rest of local government through the collaboration unit&rsquo;s email newsletter and twitter feeds.</p>
+<p>Before publishing our Digital Marketplace opportunity, we would like the collaboration unit to provide advice on using the framework and feedback on our requirements.</p>
+<h3>2.9 How will you share openly the learnings and outputs from the project as the work develops, both with the sector and MHCLG?</h3>
+<p>We will publish progress updates on a <a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture">github site</a>, potentially reusing the <a href="https://github.com/LocalDigitalChatbots">Local Digital Chatbots&rsquo; website</a> idea from Round 1. These will be published at the end of each sprint and shared on our <a href="https://pipeline.localgov.digital/wiki/317">pipeline page</a>, localgovdigital slack and twitter.</p>
+<p>Our progress updates will be accompanied by any artefacts we create during that sprint, so we are publishing the outputs incrementally throughout the project.</p>
+<p>The outputs from the project will be published on github in an accessible and reusable format. We will also aim to publish our tools and templates, so that our research can be reproduced by other authorities.</p>
+<h3>2.10 How much funding are you applying for to complete the project?</h3>
+<p>£80,000</p>
+<h3>2.11 How will the total project budget be used?</h3>
+<table width="602">
+<tbody>
+<tr>
+<td width="151">
+<p><strong>Resource (e.g staff time, supplier, contractor etc.)</strong></p>
+</td>
+<td width="150">
+<p><strong>Time / quantity </strong></p>
+</td>
+<td width="150">
+<p><strong>Total cost / value</strong></p>
+</td>
+<td width="150">
+<p><strong>Who will pay (<em>e.g Local Digital funding or a particular project partner)</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Digital agency services</p>
+</td>
+<td width="150">
+<p>Duration of project</p>
+</td>
+<td width="150">
+<p>&pound;77,500</p>
+</td>
+<td width="150">
+<p>Local Digital Fund</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Project management</p>
+</td>
+<td width="150">
+<p>23 weeks</p>
+</td>
+<td width="150">
+<p>&pound;8,600 (&pound;50p/hr x 7.5hrs/wk x 23 weeks)</p>
+</td>
+<td width="150">
+<p>Project partners</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Project sundry costs (travel expenses and resources)</p>
+</td>
+<td width="150">
+<p>23 weeks</p>
+</td>
+<td width="150">
+<p>&pound;2,500</p>
+</td>
+<td width="150">
+<p>Local Digital Fund</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Council user research subjects</p>
+</td>
+<td width="150">
+<p>23 weeks x 5 councils</p>
+</td>
+<td width="150">
+<p>&pound;7,200 per council (&pound;50p/hr x 4 people x 3 hours x 12 weeks)</p>
+<p>&pound;36,000 total in kind contribution</p>
+</td>
+<td width="150">
+<p>Project partners</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>2.12  What do you think will be your biggest barriers to success?</h3>
+<p>We think the biggest barriers to success will be:</p>
+<ul>
+<li>Language barriers by describing the problem using different terms. This could make it hard to identify patterns and share similar experiences. We&rsquo;ll need to set a consistent language at the start of the project.</li>
+<li>The breadth and complexity of the subject matter has the potential to make this discovery too large to complete within the schedule. We&rsquo;ll need to narrow the research early on by identify a smaller set of specific problems to focus on.</li>
+</ul>
+<p>Geographically dispersed project partners will make it hard to collaborate effectively. We plan to meet as a single group once, when undertaking training, and then work in regions. The group will use collaboration tools like chat and video conferencing to govern the project and share information remotely.</p>
+<h2>3. Project partner details</h2>
+<h3>3.1 List all the project partners working on the project, and the single point of contact person for each:</h3>
+<table width="598">
+<tbody>
+<tr>
+<td width="105">
+<p>Project partner name</p>
+</td>
+<td width="117">
+<p>Name of single point of contact</p>
+</td>
+<td width="135">
+<p>Role of single point of contact</p>
+</td>
+<td width="116">
+<p>Email of single point of contact</p>
+</td>
+<td width="125">
+<p>Phone number of single point of contact</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>City of York Council</p>
+</td>
+<td width="117">
+<p>Tom Thornton</p>
+</td>
+<td width="135">
+<p>User Design Manager </p>
+</td>
+<td width="116">
+<p>tom.thornton@york.gov.uk</p>
+</td>
+<td width="125">
+<p>01904 552979</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>East Hampshire District Council</p>
+</td>
+<td width="117">
+<p>Susan Parker</p>
+</td>
+<td width="135">
+<p>Head of Programmes Redesign and Quality</p>
+</td>
+<td width="116">
+<p>susan.parker@easthants.gov.uk</p>
+</td>
+<td width="125">
+<p>02392 446493</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>Havant Borough Council</p>
+</td>
+<td width="117">
+<p>Susan Parker</p>
+</td>
+<td width="135">
+<p>Head of Programmes Redesign and Quality</p>
+</td>
+<td width="116">
+<p>susan.parker@easthants.gov.uk</p>
+</td>
+<td width="125">
+<p>02392 446493</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>Haringey Council</p>
+</td>
+<td width="117">
+<p>Neil Gage</p>
+</td>
+<td width="135">
+<p>Business Partnering &amp; Improvement Manager</p>
+</td>
+<td width="116">
+<p>neil.gage@haringey.gov.uk</p>
+</td>
+<td width="125">
+<p>020 8489 1099</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2 Service Manager or Senior Responsible Officer (SRO) from one of the project partners (not the lead authority)</h3>
+<p> Susan Parker, Head of Programmes Redesign and Quality, Havant Borough Council </p>
+<h2>4. Agreement with MHCLG</h2>
+<h3>4.1. Confirm that you commit to delivering the project outputs listed in the table below by the end of March 2020</h3>
+<table width="600">
+<tbody>
+<tr>
+<td width="424">
+<p>A business case or benefits case that explains the cost of the problem and the potential for savings - both to the councils involved and on a national scale.</p>
+</td>
+<td width="176">
+<p>Yes</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>A user research report, justifying the project&rsquo;s conclusions.</p>
+</td>
+<td width="176">
+<p>Yes</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>A conclusion justifying why the project should either move into an alpha phase, extend the discovery phase, repeat discovery with a redefined scope, or if the project should stop altogether.</p>
+</td>
+<td width="176">
+<p>Yes</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>A funding application for a subsequent phase of development, if appropriate.</p>
+</td>
+<td width="176">
+<p>Yes</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Agreements with MHCLG</h3>
+<table width="600">
+<tbody>
+<tr>
+<td width="424">
+<p>We are happy for MHCLG to publish this application online so that local authorities can see what we are working on. This will include the name and email of the single point of contact of the lead authority to enable potential partners to contact you directly.</p>
+</td>
+<td width="176">
+<p>I agree</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>We are happy for all outputs from this project to be published under open license with a view to any organisation accessing, using or adopting them freely.</p>
+</td>
+<td width="176">
+<p>I agree</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>We understand that our application will only be considered if all the project partners on this application have signed the <a href="https://localdigital.gov.uk/sign/">Local Digital Declaration</a> by the time our application is reviewed.</p>
+</td>
+<td width="176">
+<p>I agree</p>
+</td>
+</tr>
+<tr>
+<td width="424">
+<p>We agree to work collaboratively with MHCLG&rsquo;s lead contact, share project related data, take part in MHCLG organised events as appropriate and have regular meetings and open conversations about project scope, delivery and outputs.</p>
+</td>
+<td width="176">
+<p>I agree</p>
+</td>
+</tr>
+</tbody>
+</table>
