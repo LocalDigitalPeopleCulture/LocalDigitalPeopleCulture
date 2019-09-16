@@ -67,6 +67,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <ul>
 <li>Local authorities may have digital visions, strategies, competency frameworks, values and behaviour frameworks. They may not be visible, understood or aligned to other strategies. They may not have a measurable impact. Leaders or managers may not have the right skills or techniques to implement them.</li>
 <li>By empowering staff to own service redesign, the pace and scope of change will improve. But that the way we govern and structure our organisations can impact how empowered and enabled staff are to suggest and own improvements.</li>
+<li>We need to model and facilitate the emergence of new attitudes and skills</li>
 <li>That where best practice service design standards and management models are in use, they are not consistently applied across a local authority.</li>
 <li>That digital transformation programmes are insufficiently resourced considering their ambitions.</li>
 </ul>
