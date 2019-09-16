@@ -15,7 +15,7 @@ David Stanley, Executive Head of Finance
 <h3> 2.1 Title of the project to appear on the Local Digital website </h3>
 Exploring how local authorities can effectively engage people and develop their cultures to successfully implement digital transformation. 
 <h3> 2.2 Describe the common problem which you propose to investigate and the users involved </h3>
-<p>Local Authorities are undertaking digital transformation so that they can meet our residents&rsquo; raised expectations. We have had some success digitising services but found it harder to engage our staff and develop our cultures.</p>
+<p>Local Authorities are undertaking digital transformation so that we can meet our residents&rsquo; raised expectations. We have had some success digitising services but found it harder to engage our staff and develop our cultures.</p>
 <p>We believe there are some factors limiting full digital transformation:</p>
 <ul>
 <li>Difficulties engaging with people and creating the right culture</li>
@@ -117,7 +117,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <h3>2.5 How will you set up the project to ensure a collaborative, iterative approach between all partners? </h3>
 <p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region in conjunction with the digital agency, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
 <p>Each project partner will provide at least one member of the project team from their transformation or organisation development teams. Rushmoor will provide project management and a project team member.</p>
-<p>We value the use of simple, accessible tools to manage the project. We will set up a Whatsapp chat for the project team to communicate effectively and share documentation using Office365.</p>
+<p>We value the use of simple, accessible tools to manage the project. We will set up a Whatsapp chat for the project team to communicate effectively and share documentation using github.</p>
 <p>We will set up a <a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture">github site</a> as a document repository, to share outputs and talk openly about our progress.</p>
 <p>We will take an agile project management approach to governing this discovery. Working alongside the digital agency, each project partner lead will agree their contribution to the work at the beginning of the project, each phase and each sprint. Regular progress updates will be posted to the Whatsapp group. At the end of each sprint, we&rsquo;ll run a review to share our work, consider any lessons learnt and agree next steps.</p>
 <h3> 2.6 Who are the relevant service owners and senior stakeholders that will need to be bought into the project to ensure its success? </h3>
@@ -179,13 +179,13 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>Project management</p>
 </td>
 <td width="150">
-<p>23 weeks</p>
+<p>23 weeks (&pound;50p/hr x 7.5hrs/wk x 23 weeks)</p>
 </td>
 <td width="150">
-<p>&pound;8,600 (&pound;50p/hr x 7.5hrs/wk x 23 weeks)</p>
+<p>&pound;8,600</p>
 </td>
 <td width="150">
-<p>Rushmoor Borough Council</p>
+<p>Rushmoor Borough Council (in kind contribution)</p>
 </td>
 </tr>
 <tr>
@@ -207,14 +207,13 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>Project team and council user research subjects</p>
 </td>
 <td width="150">
-<p>23 weeks x 5 councils</p>
+<p>23 weeks (&pound;50p/hr x 4 people x 3 hours x 12 weeks x 7 councils)</p>
 </td>
 <td width="150">
-<p>&pound;7,200 per council (&pound;50p/hr x 4 people x 3 hours x 12 weeks)</p>
-<p>&pound;36,000 total in kind contribution</p>
+<p>&pound;50,400‬</p>
 </td>
 <td width="150">
-<p>Project partners</p>
+<p>Project partners (in kind contribution)</p>
 </td>
 </tr>
 </tbody>
@@ -294,6 +293,17 @@ Exploring how local authorities can effectively engage people and develop their 
 </td>
 <td width="135">
 <p>Head of Transformation and Improvement</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>London Borough of Croydon</p>
+</td>
+<td width="117">
+<p>Atika Mohammed</p>
+</td>
+<td width="135">
+<p>Change Delivery Manager</p>
 </td>
 </tr>
 </tbody>
