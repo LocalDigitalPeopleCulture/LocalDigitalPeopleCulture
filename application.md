@@ -21,9 +21,9 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Difficulties engaging with people and creating the right culture</li>
 <li>An inability to apply concepts and lessons from internet era organisations.</li>
 <li>Achievable cost savings aren&rsquo;t obviously tangible</li>
-<li>The word &lsquo;digital&rsquo; seem as synonymous with technological change and associated with job losses</li>
-<li>Not addressing the root cause of a problem or not considering a wider change to process, information or organisation.</li>
-<li>Staff not equipped with the skills and strategies to change behaviours.</li>
+<li>Absence of a shared narrative of &lsquo;digital&rsquo;. It may be seen as synonymous with technological change and associated with job losses</li>
+<li>Not understanding the root causes of a problem or not considering a holistic change to culture, process, information or organisation.</li>
+<li>Not effectively supporting our staff with the skills and strategies to change behaviours.</li>
 <li>A lack of emphasis and engagement in the use of research and analysis to inform decision making.</li>
 <li>Transactional leadership and hierarchical management styles.</li>
 <li>An empowerment paradox where the messages of empowerment are far more positive than the reality, resulting in overt compliance and covert opposition</li>
@@ -43,7 +43,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <p></p>
 <p>Outside of local government, we think our key stakeholders are:</p>
 <ul>
-<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation and the GDS Academy.</a></li>
+<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation</a> and the GDS Academy.</li>
 <li>Suppliers, particularly digital agencies</li>
 <li>MHCLG and other central government departments, as catalysts for transformation through legislation, funding or policy.</li>
 <li>Local Government Association</li>
