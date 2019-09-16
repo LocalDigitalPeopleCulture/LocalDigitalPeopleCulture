@@ -48,7 +48,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>MHCLG and other central government departments, as catalysts for transformation through legislation, funding or policy.</li>
 <li>Local Government Association</li>
 </ul>
-<p>City of York Council&rsquo;s recent research on digital transformation found that:&nbsp;</p>
+<p><a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture/blob/branch-alex/Project%20Delivery%20Research%20July%202019.pptx">City of York Council&rsquo;s recent research</a> on digital transformation found that:&nbsp;</p>
 <ul>
 <li>Organisational culture impedes improvement</li>
 <li>There is a lack of buy-in from the business to work in a different way</li>
