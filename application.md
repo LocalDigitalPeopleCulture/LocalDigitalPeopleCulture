@@ -284,6 +284,17 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>Business Partnering &amp; Improvement Manager</p>
 </td>
 </tr>
+<tr>
+<td width="105">
+<p>Basingstoke and Deane Borough Council</p>
+</td>
+<td width="117">
+<p>Richard Rollins</p>
+</td>
+<td width="135">
+<p>Head of Transformation and Improvement</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>3.2 Service Manager or Senior Responsible Officer (SRO) from one of the project partners (not the lead authority)</h3>
