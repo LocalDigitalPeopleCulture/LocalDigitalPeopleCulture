@@ -21,9 +21,9 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Difficulties engaging with people and creating the right culture</li>
 <li>An inability to apply concepts and lessons from internet era organisations.</li>
 <li>Achievable cost savings aren&rsquo;t obviously tangible</li>
-<li>The word &lsquo;digital&rsquo; seem as synonymous with technological change and associated with job losses</li>
-<li>Not addressing the root cause of a problem or not considering a wider change to process, information or organisation.</li>
-<li>Staff not equipped with the skills and strategies to change behaviours.</li>
+<li>Absence of a shared narrative of &lsquo;digital&rsquo;. It may be seen as synonymous with technological change and associated with job losses</li>
+<li>Not understanding the root causes of a problem or not considering a holistic change to culture, process, information or organisation.</li>
+<li>Not effectively supporting our staff with the skills and strategies to change behaviours.</li>
 <li>A lack of emphasis and engagement in the use of research and analysis to inform decision making.</li>
 <li>Transactional leadership and hierarchical management styles.</li>
 <li>An empowerment paradox where the messages of empowerment are far more positive than the reality, resulting in overt compliance and covert opposition</li>
@@ -43,12 +43,12 @@ Exploring how local authorities can effectively engage people and develop their 
 <p></p>
 <p>Outside of local government, we think our key stakeholders are:</p>
 <ul>
-<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation</a></li>
+<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation</a> and the GDS Academy.</li>
 <li>Suppliers, particularly digital agencies</li>
 <li>MHCLG and other central government departments, as catalysts for transformation through legislation, funding or policy.</li>
 <li>Local Government Association</li>
 </ul>
-<p>City of York Council&rsquo;s recent research on digital transformation found that:&nbsp;</p>
+<p><a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture/blob/branch-alex/Project%20Delivery%20Research%20July%202019.pptx">City of York Council&rsquo;s recent research</a> on digital transformation found that:&nbsp;</p>
 <ul>
 <li>Organisational culture impedes improvement</li>
 <li>There is a lack of buy-in from the business to work in a different way</li>
@@ -67,6 +67,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <ul>
 <li>Local authorities may have digital visions, strategies, competency frameworks, values and behaviour frameworks. They may not be visible, understood or aligned to other strategies. They may not have a measurable impact. Leaders or managers may not have the right skills or techniques to implement them.</li>
 <li>By empowering staff to own service redesign, the pace and scope of change will improve. But that the way we govern and structure our organisations can impact how empowered and enabled staff are to suggest and own improvements.</li>
+<li>We need to model and facilitate the emergence of new attitudes and skills</li>
 <li>That where best practice service design standards and management models are in use, they are not consistently applied across a local authority.</li>
 <li>That digital transformation programmes are insufficiently resourced considering their ambitions.</li>
 </ul>
@@ -88,7 +89,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Surveys and questionnaires to baseline where organisations feel they are in addressing cultural change and identify success stories and lessons</li>
 <li>Semi-structured interviews and focus groups to conduct a deeper inquiry into stories including barriers to success and what helped, areas of interest and dynamics within organisations</li>
 <li>Potential workshops to understand what helped organisations implement change and improvement</li>
-<li>Synthesis to bring all the research together to recommend a set of resources</li>
+<li>Synthesis to bring all the research together to identify user and organisational needs</li>
 </ul>
 <p>To undertake this research we will:</p>
 <p></p>
@@ -114,7 +115,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Understanding any correlation between the user research and financial research.</li>
 <li>Scaling up the findings to get a national estimate for the cost of this problem.</li></ul>
 <h3>2.5 How will you set up the project to ensure a collaborative, iterative approach between all partners? </h3>
-<p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
+<p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region in conjunction with the digital agency, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
 <p>Each project partner will provide at least one member of the project team from their transformation or organisation development teams. Rushmoor will provide project management and a project team member.</p>
 <p>We value the use of simple, accessible tools to manage the project. We will set up a Whatsapp chat for the project team to communicate effectively and share documentation using Office365.</p>
 <p>We will set up a <a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture">github site</a> as a document repository, to share outputs and talk openly about our progress.</p>
@@ -126,7 +127,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>The project partners have differing levels of experience in Agile working and only the City of York have their own user research team.</p>
 <p>We would like the project team to undertake training, so they have a sufficient understanding of agile and user centred design. This will also provide an opportunity to meet each other and develop as a team. The ideal courses would be Agile for Teams and Introduction to User-centred Design.</p>
 <p>We intend to use the Digital Marketplace Outcomes and Specialists framework to find a digital agency partner with recent, successful experience in digital transformation of local government. They will bring knowledge and experience to guide the project, facilitate the user research, provide a consistent approach across the partner councils and do desk research. We will expect them to bring together each region&rsquo;s findings and produce the outputs. We will begin drafting this opportunity as soon as our application is submitted.</p>
-<p>The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. Each project partner will contribute a group of user research subjects to take part in interviews, surveys and workshops. We will recruit these groups from across our services to spread out the demand on our time.</p>
+<p>The City of York will use their in-house user research team within their region in conjunction with the digital agency, while the other regions will work with the digital agency. Each project partner will contribute a group of user research subjects to take part in interviews, surveys and workshops. We will recruit these groups from across our services to spread out the demand on our time and include a range of perspectives.</p>
 <p>Each project partner considers this research as critical to the success of their own transformation programmes and has committed to making time available.</p>
 <h3>2.8 Describe any additional support you might need to run the project beyond the award of grant funding?</h3>
 <p>We would need our project team to undertake the following training together:</p>
@@ -282,6 +283,17 @@ Exploring how local authorities can effectively engage people and develop their 
 </td>
 <td width="135">
 <p>Business Partnering &amp; Improvement Manager</p>
+</td>
+</tr>
+<tr>
+<td width="105">
+<p>Basingstoke and Deane Borough Council</p>
+</td>
+<td width="117">
+<p>Richard Rollins</p>
+</td>
+<td width="135">
+<p>Head of Transformation and Improvement</p>
 </td>
 </tr>
 </tbody>
