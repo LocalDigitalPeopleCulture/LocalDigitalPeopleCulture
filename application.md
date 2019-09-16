@@ -43,7 +43,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <p></p>
 <p>Outside of local government, we think our key stakeholders are:</p>
 <ul>
-<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation</a></li>
+<li>The Government Digital Service, with their <a href="https://www.gov.uk/government/publications/7-lenses-of-transformation/the-7-lenses-of-transformation">7 Lenses of Transformation and the GDS Academy.</a></li>
 <li>Suppliers, particularly digital agencies</li>
 <li>MHCLG and other central government departments, as catalysts for transformation through legislation, funding or policy.</li>
 <li>Local Government Association</li>
@@ -88,7 +88,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Surveys and questionnaires to baseline where organisations feel they are in addressing cultural change and identify success stories and lessons</li>
 <li>Semi-structured interviews and focus groups to conduct a deeper inquiry into stories including barriers to success and what helped, areas of interest and dynamics within organisations</li>
 <li>Potential workshops to understand what helped organisations implement change and improvement</li>
-<li>Synthesis to bring all the research together to recommend a set of resources</li>
+<li>Synthesis to bring all the research together to identify user and organisational needs</li>
 </ul>
 <p>To undertake this research we will:</p>
 <p></p>
@@ -114,7 +114,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <li>Understanding any correlation between the user research and financial research.</li>
 <li>Scaling up the findings to get a national estimate for the cost of this problem.</li></ul>
 <h3>2.5 How will you set up the project to ensure a collaborative, iterative approach between all partners? </h3>
-<p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
+<p>Our project partners will work in regional groups (Hampshire, Yorkshire and London), so that we can undertake co-located collaboration. The City of York will use their in-house user research team within their region in conjunction with the digital agency, while the other regions will work with the digital agency. We&rsquo;ll take the same user research approach and collate our group findings together into one set of outputs.</p>
 <p>Each project partner will provide at least one member of the project team from their transformation or organisation development teams. Rushmoor will provide project management and a project team member.</p>
 <p>We value the use of simple, accessible tools to manage the project. We will set up a Whatsapp chat for the project team to communicate effectively and share documentation using Office365.</p>
 <p>We will set up a <a href="https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture">github site</a> as a document repository, to share outputs and talk openly about our progress.</p>
@@ -126,7 +126,7 @@ Exploring how local authorities can effectively engage people and develop their 
 <p>The project partners have differing levels of experience in Agile working and only the City of York have their own user research team.</p>
 <p>We would like the project team to undertake training, so they have a sufficient understanding of agile and user centred design. This will also provide an opportunity to meet each other and develop as a team. The ideal courses would be Agile for Teams and Introduction to User-centred Design.</p>
 <p>We intend to use the Digital Marketplace Outcomes and Specialists framework to find a digital agency partner with recent, successful experience in digital transformation of local government. They will bring knowledge and experience to guide the project, facilitate the user research, provide a consistent approach across the partner councils and do desk research. We will expect them to bring together each region&rsquo;s findings and produce the outputs. We will begin drafting this opportunity as soon as our application is submitted.</p>
-<p>The City of York will use their in-house user research team within their region, while the other regions will work with the digital agency. Each project partner will contribute a group of user research subjects to take part in interviews, surveys and workshops. We will recruit these groups from across our services to spread out the demand on our time.</p>
+<p>The City of York will use their in-house user research team within their region in conjunction with the digital agency, while the other regions will work with the digital agency. Each project partner will contribute a group of user research subjects to take part in interviews, surveys and workshops. We will recruit these groups from across our services to spread out the demand on our time.</p>
 <p>Each project partner considers this research as critical to the success of their own transformation programmes and has committed to making time available.</p>
 <h3>2.8 Describe any additional support you might need to run the project beyond the award of grant funding?</h3>
 <p>We would need our project team to undertake the following training together:</p>
