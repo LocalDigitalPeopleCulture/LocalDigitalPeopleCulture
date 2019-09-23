@@ -5,6 +5,6 @@ This is the project site for a potential Local Digital Collaboration Unit funded
 ## Documents and Plans
 
 * Our [Local Digital Fund application](/application.md)
-* [Previous user research](/Project%20Delivery%20Research%20July%202019.pptx) by City of York Council
+* [Previous user research](https://github.com/LocalDigitalPeopleCulture/LocalDigitalPeopleCulture/blob/master/Project%20Delivery%20Research%20July%202019.pptx) by City of York Council
 * Public project plan on [Trello](https://trello.com/b/y2aLOjS1/localdigitalpeopleculture-project-plan).
 
